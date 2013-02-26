@@ -1,2 +1,2 @@
-7 PRINT "Awesome!"
+10 PRINT "Awesome!"
 20 GOTO 10
