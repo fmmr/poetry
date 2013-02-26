@@ -1,5 +1,7 @@
 Livet er den tiden det tar å dø
 Sa brura - ikke sant
+<<<<<<< HEAD
+=======
 
 
 Gutta
@@ -29,3 +31,4 @@ når var det egentlig det slutta
 hvor er det blitt av alle gutta
 
 Jubel hadde med seg flere epler. Men ennå hadde vi ikke sett Brun ete dem. Og Jubel kunne snart hele Terje Vigen utenat. Jubel satt på forreste pult, den ingen villa ha. Og ryktet om lyktestolpeklatringa hans spredde seg sakte med sikkert. Det gikk fra hjørne til hjørne, fra skole til skole, helt opp på Sagene ble det snakket om denne kisen fra landet som ble kalt Jubel
+>>>>>>> 41495b20547e53ac608cd05b559b2ac3e350e251
