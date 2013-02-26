@@ -2,6 +2,7 @@ dog does woof!
 sheep does baah!
 cat does meow!
 duck does quack!
+pig does oink!
  _____
 < moo >
  -----
