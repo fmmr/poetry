@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jeg er sønn av kong Olav V
+=======
+Jeg er sønn av kong Olav V
+>>>>>>> Hajold Jex
