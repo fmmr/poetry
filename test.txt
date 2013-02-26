@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing
+=======
+Testing 1 2 3
+>>>>>>> 41495b20547e53ac608cd05b559b2ac3e350e251
