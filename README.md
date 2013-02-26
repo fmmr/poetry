@@ -8,3 +8,4 @@
   * Shelley
 
 #Why do we need a readme? Reading is boaring!
+Maybe Tim can explain this?
