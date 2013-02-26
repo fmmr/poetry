@@ -1,5 +1,7 @@
 Ibsens ripsbusker
-og andre buskvekster
+og jandre buskvekster
+
+Hjelp 
 
 Der bode en underlig gråsprængt en
 på den yderste nøgne ø; -
@@ -25,3 +27,5 @@ men med vilde blomster iblandt.
 
 Put differently:
   To live is to war with trolls.
+
+testing 
